@@ -1,6 +1,7 @@
 # Exercise 04 - mathEquations
 
-Replace the strings to the right of the `=` with the expression they describe. Do **not** manually enter the answers to the equation.
+Replace the strings to the right of the `=` with the expression they describe.
+Do **not** manually enter the answers to the equation.
 
 Currently, the variables are strings. They need to be math equations instead.
 
@@ -14,7 +15,8 @@ The following is an example of the **wrong** answer:
 const a = 0 // WRONG!!! You need to write out the equation, NOT put the result of the equation directly!
 ```
 
-Feel free to run the test suite right now to see the first test pass, then go from there. Good luck!
+Feel free to run the test suite right now to see the first test pass, then go
+from there. Good luck!
 
 ## Hints
 
